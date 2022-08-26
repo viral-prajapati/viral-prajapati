@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://sites.google.com/view/viralprajapati/home?authuser=0)
+[![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://sites.google.com/view/viralprajapati/home?authuser=0)
 <h1 align="center">Hi 👋, I'm Viral Prajapati</h1>
 <h3 align="center">AI enthusiastic and Software developer at Code Space Techlabs</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
